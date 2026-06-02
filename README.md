@@ -3,7 +3,7 @@ The Midnight City color scheme for iTerm2.
 
 <img width="103" height="103" alt="City" src="https://github.com/user-attachments/assets/68074204-0734-43e0-8132-3c6e3a47360a" /><br/>
 
-* [Ghostty for macOS and Linux](https://ghostty.org/)
+* [iTerm2 for macOS](https://iterm2.com/)
 
 * [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city/tree/master)<br/>
 
