@@ -7,6 +7,8 @@ The Midnight City color scheme for iTerm2.
 
 * [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city/tree/master)<br/>
 
+*Midnight City.itermcolors*
+
 <img width="260" height="82" alt="MidnightCityiTerm1" src="https://github.com/user-attachments/assets/e0043d37-83da-45b6-a6bb-91b6d1f12152" /><br/>
 
 <img width="785" height="398" alt="MidnightCityiTerm2" src="https://github.com/user-attachments/assets/bc8e20ee-b40b-4412-adf7-ea34603b5da3" />
