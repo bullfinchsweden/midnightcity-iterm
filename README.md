@@ -1,4 +1,4 @@
-# Midnight City iTerm
+# Midnight City iTerm 🌃
 The Midnight City color scheme for iTerm2.
 
 <img src="Images/iTerm.jpg"><br/>
