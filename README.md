@@ -5,7 +5,7 @@ The Midnight City color scheme for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
-* [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city/tree/master)<br/>
+* [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city)<br/>
 
 <img src="Images/MidnightCity.jpg" width="768" height="320" /><br/>
 
