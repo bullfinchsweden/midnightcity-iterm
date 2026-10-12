@@ -11,6 +11,4 @@ The Midnight City color scheme for iTerm2.
 
 *Midnight City.itermcolors*
 
-<img src="Images/MidnightCityiTerm1.png" width="260" height="82" /><br/>
-
-<img src="Images/MidnightCityiTerm2.png" width="785" height="398" />
+<img src="Images/MidnightCityiTerm.png" width="764.5" height="376.5" />
